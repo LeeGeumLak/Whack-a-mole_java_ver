@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

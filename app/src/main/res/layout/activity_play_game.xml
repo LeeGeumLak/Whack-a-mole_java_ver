@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/green_background">
+
+
+    <TextView
+        android:id="@+id/countdownTimer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/moleButton1"
+        android:gravity="right"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:text="시간"
+        android:textSize="24sp"
+        android:layout_toRightOf="@+id/moleButton1" />
+
+    <TextView
+        android:id="@+id/scoreCounter"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/moleButton3"
+        android:layout_toStartOf="@+id/moleButton3"
+        android:gravity="left"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:text="점수 : 0"
+        android:textSize="24sp" />
+
+    <ImageButton
+        android:id="@+id/hole1"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignStart="@+id/moleButton1"
+        android:layout_alignTop="@+id/moleButton1"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/mole_hole"
+        android:layout_alignLeft="@+id/moleButton1" />
+
+    <ImageButton
+        android:id="@+id/moleButton1"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_above="@+id/hole4"
+        android:layout_marginBottom="67dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginRight="37dp"
+        android:layout_toLeftOf="@+id/hole2"
+        android:layout_toStartOf="@+id/hole2"
+        android:layout_weight="1"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet" />
+
+    <ImageButton
+        android:id="@+id/hole2"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton2"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/mole_hole" />
+
+    <ImageButton
+        android:id="@+id/moleButton2"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignTop="@+id/moleButton1"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet" />
+
+    <ImageButton
+        android:id="@+id/hole3"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        app:srcCompat="@drawable/mole_hole"
+        android:layout_alignTop="@+id/moleButton3"
+        android:layout_alignStart="@+id/moleButton3"
+        android:scaleType="fitCenter"
+        android:background="@null"
+        android:layout_alignLeft="@+id/moleButton3" />
+
+    <ImageButton
+        android:id="@+id/moleButton3"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignTop="@+id/moleButton2"
+        android:layout_marginStart="34dp"
+        android:layout_toEndOf="@+id/moleButton2"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_marginLeft="34dp"
+        android:layout_toRightOf="@+id/moleButton2" />
+
+    <ImageButton
+        android:id="@+id/hole4"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton4"
+        android:layout_alignStart="@+id/moleButton4"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton4" />
+
+    <ImageButton
+        android:id="@+id/moleButton4"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_above="@+id/hole7"
+        android:layout_alignLeft="@+id/hole1"
+        android:layout_alignStart="@+id/hole1"
+        android:layout_marginBottom="79dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet" />
+
+    <ImageButton
+        android:id="@+id/hole5"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton5"
+        android:layout_alignStart="@+id/moleButton5"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton5" />
+
+    <ImageButton
+        android:id="@+id/moleButton5"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignStart="@+id/moleButton2"
+        android:layout_alignTop="@+id/moleButton4"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_alignLeft="@+id/moleButton2" />
+
+    <ImageButton
+        android:id="@+id/hole6"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton6"
+        android:layout_alignStart="@+id/moleButton6"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton6" />
+
+    <ImageButton
+        android:id="@+id/moleButton6"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignStart="@+id/moleButton3"
+        android:layout_alignTop="@+id/moleButton5"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_alignLeft="@+id/moleButton3" />
+
+    <ImageButton
+        android:id="@+id/hole7"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton7"
+        android:layout_alignStart="@+id/moleButton7"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton7" />
+
+    <ImageButton
+        android:id="@+id/moleButton7"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/moleButton4"
+        android:layout_marginBottom="158dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_alignLeft="@+id/moleButton4" />
+
+    <ImageButton
+        android:id="@+id/hole8"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton8"
+        android:layout_alignStart="@+id/moleButton8"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton8" />
+
+    <ImageButton
+        android:id="@+id/moleButton8"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignStart="@+id/moleButton5"
+        android:layout_alignTop="@+id/moleButton7"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_alignLeft="@+id/moleButton5" />
+
+    <ImageButton
+        android:id="@+id/hole9"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@+id/moleButton9"
+        android:layout_alignStart="@+id/moleButton9"
+        app:srcCompat="@drawable/mole_hole"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:layout_alignLeft="@+id/moleButton9" />
+
+    <ImageButton
+        android:id="@+id/moleButton9"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignStart="@+id/moleButton6"
+        android:layout_alignTop="@+id/moleButton8"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/diglet"
+        android:layout_alignLeft="@+id/moleButton6" />
+
+
+</RelativeLayout>

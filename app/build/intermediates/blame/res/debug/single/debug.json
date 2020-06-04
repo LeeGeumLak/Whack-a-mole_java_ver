@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_holes_duplicated.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable\\holes_duplicated.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_background.jpg.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable\\green_background.jpg"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restart_game.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\activity_restart_game.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diglet.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable\\diglet.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_game.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\activity_play_game.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_restart_game.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\content_restart_game.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_play_game.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\content_play_game.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole_hole.png.flat",
+        "source": "D:\\A\\teamnova_basic_project\\basic_android_second_chance\\teamnova_basic_project_android_2nd\\app\\src\\main\\res\\drawable\\mole_hole.png"
+    }
+]

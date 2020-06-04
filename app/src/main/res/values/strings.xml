@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catch Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play_game">PlayGame</string>
+    <string name="title_activity_restart_game">RestartGame</string>
+    <string name="play_again">재도전 하시겠습니까?</string>
+    <string name="score">점수 : </string>
+    <string name="high_score">최고 점수 : </string>
+    <string name="scoreVar">점수</string>
+    <string name="highScoreVar">최고 점수</string>
+</resources>
